@@ -9,7 +9,7 @@ Platforms & Technologies: React, Express, MongoDB, Firebase, Redux, Node.js, SQL
 
 [AirMatrix](https://airmatrix.ca/) a software startup that aims to build a 3D network of drone roads with industry-leading millimeter precision.
 
-###🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 
 - GraphQL 
 - TensorFlow
