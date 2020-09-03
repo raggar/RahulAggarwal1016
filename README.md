@@ -13,7 +13,6 @@ Platforms & Technologies: React, Express, MongoDB, Firebase, Redux, Node.js, SQL
 
 - GraphQL 
 - TensorFlow
-- Redux (for state management)
 - C++ 
 
 ### 👯 I’m looking to collaborate on ...
