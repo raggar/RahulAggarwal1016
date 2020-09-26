@@ -4,7 +4,7 @@ Thank you for visiting my Github Profile! My name is Rahul Aggarwal, an 18-year-
 
 Familiar Languages: *Python, Javascript, Swift, HTML/CSS* 
 
-Platforms & Technologies: React, Express, MongoDB, Firebase, Redux, Node.js, SQL, Git
+Platforms & Technologies: *React, Express, MongoDB, Firebase, Redux, Node.js, SQL, Git*
 
 ### 🔭 I’m currently working at...
 
