@@ -13,8 +13,8 @@ Platforms & Technologies: *React, Express, MongoDB, Firebase, Redux, Node.js, SQ
 ### 🌱 I’m currently learning ...
 
 - GraphQL 
-- TensorFlow
-- C++ 
+- OpenCV
+- GatsbyJs 
 
 ### 👯 I’m looking to collaborate on ...
 
