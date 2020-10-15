@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-Thank you for visiting my Github Profile! My name is Rahul Aggarwal, an 18-year-old student developer from Vaughan Ontario who is passionate about machine-learning, web and back-end development. Next year, I will be attending the University of Waterloo for Software Engineering.
+Thank you for visiting my Github Profile! My name is Rahul Aggarwal, an 18-year-old student developer from Vaughan Ontario who is passionate about machine-learning, web and back-end development. I am currently attending the University of Waterloo for Software Engineering.
 
 Familiar Languages: *Python, Javascript, Swift, HTML/CSS* 
 
