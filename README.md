@@ -5,6 +5,7 @@
 Thank you for visiting my Github Profile! My name is Rahul Aggarwal and I am an 18-year-old student developer from Vaughan Ontario who is passionate about full-stack webdevelopment. I am currently attending the University of Waterloo for Software Engineering and have worked at several previous startups such as **AirMatrix** and **Waves Egaming**. 
 
 ### Skills
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAggarwal1016)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Front-end
 * React/Redux 
@@ -41,7 +42,5 @@ Innovative and disruptive side projects with other like-minded and ambitious ind
 ### 📫 How to reach me: ...
 
 The best way to contact me is via email, **rahulaggarwal1016@gmail.com**.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAggarwal1016)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RahulAggarwal1016)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahul1016/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13688867)  
