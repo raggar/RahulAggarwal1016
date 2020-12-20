@@ -2,6 +2,8 @@
 
 # Hello there, I'm Rahul Aggarwal 👋
 
+![Hello Word](https://github.com/RahulAggarwal1016/RahulAggarwal1016/blob/master/banner.png)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RahulAggarwal1016&show_icons=true&theme=tokyonight)
 
 ## I Build Things for the Web
