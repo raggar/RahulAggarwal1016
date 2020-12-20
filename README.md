@@ -2,13 +2,27 @@
 #### I Build Things for the Web
 Thank you for visiting my Github Profile! My name is Rahul Aggarwal and I am an 18-year-old student developer from Vaughan Ontario who is passionate about full-stack webdevelopment. I am currently attending the University of Waterloo for Software Engineering and have worked at several previous startups such as **AirMatrix** and **Waves Egaming**. 
 
-###React, Gatsby, Express, MongoDB, Firebase, Redux, Node.js, SQL, Postgres, Git
-### 🌱 I’m currently learning ...
+### Skills
 
-- GraphQL/Prisma 
-- NextJs
-- GatsbyJs
-- Apollo
+## Front-end
+* React/Redux 
+* Gatsby
+
+## Backend 
+* NodeJs
+* ExpressJs
+* Apollo + Graphql
+
+## Databases 
+* MongoDB
+* Prisma
+* Postgres
+* Sanity
+* MySQL
+
+## Other
+* Firebase
+* Git
 
 ### 👯 I’m looking to collaborate on ...
 
@@ -22,8 +36,7 @@ Innovative and disruptive side projects with other like-minded and ambitious ind
 
 ### 📫 How to reach me: ...
 
-- [Linkedin](https://www.linkedin.com/in/rahul1016/) 
-- Email: rahulaggarwal1016@gmail.com
+The best way to contact me is via email, **rahulaggarwal1016@gmail.com**.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RahulAggarwal1016)](https://github.com/anuraghazra/github-readme-stats)
 
