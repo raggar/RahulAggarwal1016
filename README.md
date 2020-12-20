@@ -12,7 +12,7 @@ Thank you for visiting my Github Profile! My name is Rahul Aggarwal and I am an 
 
 ### Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAggarwal1016)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAggarwal1016)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 
 #### Front-end
 * React/Redux 
