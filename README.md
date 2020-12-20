@@ -13,7 +13,12 @@ Thank you for visiting my Github Profile! My name is Rahul Aggarwal and I am an 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAggarwal1016&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)
 
 ### Skills
-<code> </code>
+<code> 
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;">  
+</a>
+</code>
+
 #### Front-end
 * React/Redux 
 * Gatsby
