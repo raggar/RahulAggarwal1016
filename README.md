@@ -5,7 +5,7 @@ Thank you for visiting my Github Profile! My name is Rahul Aggarwal and I am an 
 ### Skills
 
 ### Front-end
-* :pizza: React/Redux 
+* React/Redux 
 * Gatsby
 
 #### Backend 
@@ -28,11 +28,13 @@ Thank you for visiting my Github Profile! My name is Rahul Aggarwal and I am an 
 
 Innovative and disruptive side projects with other like-minded and ambitious individuals. I love attending hackathons (taken part in 9 in the past) and throughly enjoy experimenting with new technologies and frameworks. Have a cool idea in mind? Let's have a chat. 
 
-### 💬 Ask me about ...
+### I am passionate about
 
-- Hackathons
-- Toronto
-- Apple Products :)
+* Hackathons :octocat:
+* Web Development 
+* Swimming :basketball:
+* Traveling :airplane:
+* Music :guitar:
 
 ### 📫 How to reach me: ...
 
