@@ -1,6 +1,6 @@
 
 
-<div align="center"># Welcome, I'm Rahul Aggarwal</div>
+# Welcome, I'm Rahul Aggarwal 
 ## *"I Build Things for the Web"*
 
 ![Hello Word](https://github.com/RahulAggarwal1016/RahulAggarwal1016/blob/master/banner.png)
