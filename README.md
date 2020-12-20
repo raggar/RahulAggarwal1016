@@ -1,26 +1,26 @@
-### Hello there, I'm Rahul Aggarwal 👋
-#### I Build Things for the Web
+# Hello there, I'm Rahul Aggarwal 👋
+## I Build Things for the Web
 Thank you for visiting my Github Profile! My name is Rahul Aggarwal and I am an 18-year-old student developer from Vaughan Ontario who is passionate about full-stack webdevelopment. I am currently attending the University of Waterloo for Software Engineering and have worked at several previous startups such as **AirMatrix** and **Waves Egaming**. 
 
 ### Skills
 
-## Front-end
+### Front-end
 * React/Redux 
 * Gatsby
 
-## Backend 
+### Backend 
 * NodeJs
 * ExpressJs
 * Apollo + Graphql
 
-## Databases 
+### Databases 
 * MongoDB
 * Prisma
 * Postgres
 * Sanity
 * MySQL
 
-## Other
+### Other
 * Firebase
 * Git
 
