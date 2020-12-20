@@ -1,15 +1,8 @@
-## Hello! 👋
+### Hi there 👋, Rahul Aggarwal
+#### Full-Stack Web Developer
+Thank you for visiting my Github Profile! My name is Rahul Aggarwal and I am an 18-year-old student developer from Vaughan Ontario who loves building things for the web. I am currently attending the University of Waterloo for Software Engineering and have worked at several previous startups such as **AirMatrix** and **Waves Egaming**. 
 
-Thank you for visiting my Github Profile! My name is Rahul Aggarwal, an 18-year-old student developer from Vaughan Ontario who is passionate about full-stack web development. I am currently attending the University of Waterloo for Software Engineering.
-
-Familiar Languages: *Python, Javascript, Swift, HTML/CSS* 
-
-Platforms & Technologies: *React, Gatsby, Express, MongoDB, Firebase, Redux, Node.js, SQL, Postgres, Git*
-
-### 🔭 I’m currently working at...
-
-[AirMatrix](https://airmatrix.ca/) a software startup that aims to build a 3D network of drone roads with industry-leading millimeter precision.
-
+Skills: React, Gatsby, Express, MongoDB, Firebase, Redux, Node.js, SQL, Postgres, Git
 ### 🌱 I’m currently learning ...
 
 - GraphQL/Prisma 
