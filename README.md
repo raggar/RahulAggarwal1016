@@ -1,13 +1,13 @@
 
 
-# Hello there, I'm Rahul Aggarwal 👋
+# Welcome, I'm Rahul Aggarwal
+# *I Build Things for the Web*
 
 ![Hello Word](https://github.com/RahulAggarwal1016/RahulAggarwal1016/blob/master/banner.png)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RahulAggarwal1016&show_icons=true&theme=tokyonight)
-
-## I Build Things for the Web
 Thank you for visiting my Github Profile! My name is Rahul Aggarwal and I am an 18-year-old student developer from Vaughan Ontario who is passionate about full-stack webdevelopment. I am currently attending the University of Waterloo for Software Engineering and have worked at several previous startups such as **AirMatrix** and **Waves Egaming**. 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RahulAggarwal1016&show_icons=true&theme=tokyonight)
 
 ### Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAggarwal1016)](https://github.com/anuraghazra/github-readme-stats)
