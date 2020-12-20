@@ -2,7 +2,7 @@
 
 # Welcome, I'm Rahul Aggarwal :wave:
 ## *"I Build Things for the Web"*
-![](https://komarev.com/ghpvc/?username=RahulAggarwal1016&label=PROFILE+VIEWScolor=brightgreen)
+![](https://komarev.com/ghpvc/?username=RahulAggarwal1016&label=PROFILE+VIEWS&color=brightgreen)
 
 ![Hello Word](https://github.com/RahulAggarwal1016/RahulAggarwal1016/blob/master/banner.png)
 
