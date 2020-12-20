@@ -31,3 +31,5 @@ Innovative and disruptive side projects with other like-minded and ambitious ind
 
 - [Linkedin](https://www.linkedin.com/in/rahul1016/) 
 - Email: rahulaggarwal1016@gmail.com
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RahulAggarwal1016)](https://github.com/anuraghazra/github-readme-stats)
