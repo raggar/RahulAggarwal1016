@@ -26,3 +26,7 @@ Innovative and disruptive side projects with other like-minded and ambitious ind
 - Email: rahulaggarwal1016@gmail.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RahulAggarwal1016)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RahulAggarwal1016)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahul1016/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13688867)  
+
+
