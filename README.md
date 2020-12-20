@@ -38,23 +38,23 @@ Thank you for visiting my Github Profile! My name is Rahul Aggarwal and I am an 
   </code>
 </p
 
-#### *Front-end
+#### *Front-end*
 * React/Redux 
 * Gatsby
 
-#### *Backend 
+#### *Backend*
 * NodeJs
 * ExpressJs
 * Apollo + Graphql
 
-#### *Databases 
+#### *Databases*
 * MongoDB
 * Prisma
 * Postgres
 * Sanity
 * MySQL
 
-#### *Other
+#### *Other*
 * Firebase
 * Git
 
