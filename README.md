@@ -34,7 +34,7 @@ Innovative and disruptive side projects with other like-minded and ambitious ind
 ### I am passionate about
 
 * Hackathons :octocat:
-* Web Development 
+* Web & OpenSource Development :computer: 
 * Swimming :basketball:
 * Traveling :airplane:
 * Music :guitar:
