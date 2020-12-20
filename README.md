@@ -2,7 +2,7 @@
 
 # Hello there, I'm Rahul Aggarwal 👋
 
-<Img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" style="max-width:100% alt="Hello world>
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" style="max-width:100% alt="Hello world">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RahulAggarwal1016&show_icons=true&theme=tokyonight)
 
