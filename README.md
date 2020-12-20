@@ -5,7 +5,7 @@ Thank you for visiting my Github Profile! My name is Rahul Aggarwal and I am an 
 ### Skills
 
 ### Front-end
-* React/Redux 
+* :pizza: React/Redux 
 * Gatsby
 
 #### Backend 
