@@ -7,7 +7,6 @@
 
 ![Hello Word](https://github.com/RahulAggarwal1016/RahulAggarwal1016/blob/master/banner.png)
 
-
 Thank you for visiting my Github Profile! My name is Rahul Aggarwal and I am an 18-year-old student developer from Vaughan Ontario who is passionate about full-stack webdevelopment. I am currently attending the University of Waterloo for Software Engineering and have worked at several previous startups such as **AirMatrix** and **Waves Egaming**. 
 
 ### Skills
@@ -71,6 +70,9 @@ Innovative and disruptive side projects with other like-minded and ambitious ind
 ### 📫 How to reach me: ...
 
 The best way to contact me is via email, **rahulaggarwal1016@gmail.com**.
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RahulAggarwal1016)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahul1016/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13688867) 
+![](https://komarev.com/ghpvc/?username=RahulAggarwal1016&label=PROFILE+VIEWS&color=brightgreen) 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RahulAggarwal1016&count_private=true&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)
 
