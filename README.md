@@ -1,7 +1,6 @@
 
 
 # Welcome, I'm Rahul Aggarwal :wave:
-## *"I Build for the Web"*
 
 ![Hello Word](https://github.com/RahulAggarwal1016/RahulAggarwal1016/blob/master/banner.png)
 
