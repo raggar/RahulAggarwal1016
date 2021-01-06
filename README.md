@@ -48,6 +48,7 @@ Thank you for visiting my Github Profile! I am an 18-year-old student developer 
 * Postgres
 
 #### *Other*
+* Jest & Enyzme
 * Firebase
 * Git
 
