@@ -4,7 +4,7 @@
 
 ![Hello Word](https://github.com/RahulAggarwal1016/RahulAggarwal1016/blob/master/banner.png)
 
-Thank you for visiting my Github Profile! My name is Rahul Aggarwal and I am an 18-year-old student developer from Vaughan Ontario who is passionate about full-stack web development. I am currently attending the University of Waterloo for Software Engineering and have worked at several startups in the past such as **AirMatrix** and **Waves Egaming**. 
+Thank you for visiting my Github Profile! I am an 18-year-old student developer from Vaughan Ontario who is passionate about full-stack web development. I am currently attending the University of Waterloo for Software Engineering and have worked at several startups in the past such as **AirMatrix** and **Waves Egaming**. 
 
 ### Skills
 <p>
@@ -58,7 +58,7 @@ Innovative and disruptive side projects with other like-minded and ambitious ind
 ### :heart: I am passionate about
 
 * Hackathons :octocat:
-* Web & OpenSource Development :computer: 
+* Web & open source development :computer: 
 * Swimming :basketball:
 * Traveling :airplane:
 * Music :guitar:
