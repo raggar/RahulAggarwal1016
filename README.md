@@ -66,6 +66,6 @@ Innovative and disruptive side projects with other like-minded and ambitious ind
 
 ###  📫 How to reach me: ...
 
-You can contact me via email, **rahulaggarwal1016@gmail.com** or by messaging me on (https://www.linkedin.com/in/rahul1016/)Linkedin
+You can contact me via email, **rahulaggarwal1016@gmail.com** or by messaging me on [Linkedin](https://www.linkedin.com/in/rahul1016/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RahulAggarwal1016&count_private=true&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAggarwal1016&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)
