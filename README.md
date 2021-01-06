@@ -40,7 +40,7 @@ Thank you for visiting my Github Profile! I am an 18-year-old student developer 
 #### *Backend*
 * Node.js
 * Express
-* Graphql
+* GraphQL
 
 #### *Databases*
 * MongoDB
