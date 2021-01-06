@@ -56,7 +56,7 @@ Thank you for visiting my Github Profile! I am an 18-year-old student developer 
 
 * Hackathons :octocat:
 * Web & open source development :computer: 
-* Swimming :basketball:
+* Basketball :basketball:
 * Traveling :airplane:
 * Music :guitar:
 
