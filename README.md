@@ -52,7 +52,7 @@ Thank you for visiting my Github Profile! I am an 18-year-old student developer 
 * Firebase
 * Git
 
-### :heart: I am passionate about
+###  :heart: I am passionate about
 
 * Hackathons :octocat:
 * Web & open source development :computer: 
@@ -60,11 +60,11 @@ Thank you for visiting my Github Profile! I am an 18-year-old student developer 
 * Traveling :airplane:
 * Music :guitar:
 
-### 👯 I’m looking to collaborate on ...
+###  👯 I’m looking to collaborate on ...
 
 Innovative and disruptive side projects with other like-minded and ambitious individuals. I love attending hackathons (taken part in 9 in the past) and enjoy experimenting with new technologies and frameworks. Have a cool idea in mind? Let's have a chat. 
 
-### 📫 How to reach me: ...
+###  📫 How to reach me: ...
 
 You can contact me via email, **rahulaggarwal1016@gmail.com** or by using the platforms below.
 
