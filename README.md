@@ -55,7 +55,7 @@ Thank you for visiting my Github Profile! My name is Rahul Aggarwal and I am an 
 
 Innovative and disruptive side projects with other like-minded and ambitious individuals. I love attending hackathons (taken part in 9 in the past) and throughly enjoy experimenting with new technologies and frameworks. Have a cool idea in mind? Let's have a chat. 
 
-### :heart I am passionate about
+### :heart: I am passionate about
 
 * Hackathons :octocat:
 * Web & OpenSource Development :computer: 
