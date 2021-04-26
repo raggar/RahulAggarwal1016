@@ -32,7 +32,7 @@ Thank you for visiting my Github Profile! I am an 18-year-old student developer 
   </code>
 </p>
 
-#### *Front-end*
+#### *Frontend*
 * React/Redux 
 * Next.js
 * Gatsby.js
