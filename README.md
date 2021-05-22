@@ -32,26 +32,6 @@ Thank you for visiting my Github Profile! I am an 18-year-old student developer 
   </code>
 </p>
 
-#### *Frontend*
-* React/Redux 
-* Next.js
-* Gatsby.js
-
-#### *Backend*
-* Node.js
-* Express
-* GraphQL
-
-#### *Databases*
-* MongoDB
-* Prisma
-* Postgres
-
-#### *Other*
-* Jest & Enyzme
-* Firebase
-* Git
-
 ###  :heart: I am passionate about
 
 * Hackathons :octocat:
@@ -60,12 +40,7 @@ Thank you for visiting my Github Profile! I am an 18-year-old student developer 
 * Traveling :airplane:
 * Music :guitar:
 
-###  👯 I’m looking to collaborate on ...
-
-Innovative and disruptive side projects with other like-minded and ambitious individuals. I love attending hackathons (taken part in 9 in the past) and enjoy experimenting with new technologies and frameworks. Have a cool idea in mind? Let's have a chat. 
-
-###  📫 How to reach me: ...
-
+I love attending hackathons (taken part in 9 in the past) and enjoy experimenting with new technologies and frameworks. Have a cool idea in mind? Let's have a chat. 
 You can contact me via email, **rahulaggarwal1016@gmail.com** or by messaging me on **[Linkedin](https://www.linkedin.com/in/rahul1016/)**. I look forward to hearing from you! 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RahulAggarwal1016&count_private=true&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAggarwal1016&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)
