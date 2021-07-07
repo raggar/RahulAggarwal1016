@@ -32,14 +32,6 @@ Thank you for visiting my Github Profile! I am an 18-year-old student developer 
   </code>
 </p>
 
-###  :heart: I am passionate about
-
-* Hackathons :octocat:
-* Web & open source development :computer: 
-* Basketball :basketball:
-* Traveling :airplane:
-* Music :guitar:
-
 I love attending hackathons (taken part in 9 in the past) and enjoy experimenting with new technologies and frameworks. Have a cool idea in mind? Let's have a chat. 
 You can contact me via email, **rahulaggarwal1016@gmail.com** or by messaging me on **[Linkedin](https://www.linkedin.com/in/rahul1016/)**. I look forward to hearing from you! 
 
