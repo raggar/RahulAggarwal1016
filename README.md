@@ -4,7 +4,7 @@
 
 ![Hello Word](https://github.com/RahulAggarwal1016/RahulAggarwal1016/blob/master/banner.png)
 
-Thank you for visiting my Github Profile! I am an 18-year-old student developer from Vaughan Ontario who is passionate about full-stack web development. I am currently attending the University of Waterloo for Software Engineering and have worked at several startups in the past such as **AirMatrix** and **Waves Egaming**. 
+Thank you for visiting my Github Profile! I am an 18-year-old student developer from Vaughan Ontario who is passionate about full-stack web development. I am currently attending the University of Waterloo for Software Engineering and have worked at several startups in the past such as **AirMatrix**, **Remitbee**, and **Waves Egaming**. 
 
 ### Skills
 <p>
