@@ -1,10 +1,10 @@
 
 
-# Welcome, I'm Rahul Aggarwal :wave:
+# Hello there, I'm Rahul Aggarwal :wave:
 
 ![Hello Word](https://github.com/RahulAggarwal1016/RahulAggarwal1016/blob/master/banner.png)
 
-Thank you for visiting my Github Profile! I am a 19 year old student developer from Vaughan Ontario who is passionate about Machine Learning, App development, and creating for the World Wide Web. I am currently a second year software engineering student at the University of Waterloo and frontend developer at **HackTheNorth** canada's largest hackathon.
+I'm a 19 year old student developer from Vaughan Ontario and am currently in my second year of software engineering at the University of Waterloo who is passionate about Machine Learning, App development, and creating for the World Wide Web. As of this moment, I am a backend developer at Faire as well as part of the platform team at HacktheNorth which is Canada's largest hackathon. 
 
 ### Skills
 <p>
