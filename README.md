@@ -4,7 +4,7 @@
 
 ![Hello Word](https://github.com/RahulAggarwal1016/RahulAggarwal1016/blob/master/banner.png)
 
-I'm a 19 year old student developer from Vaughan Ontario and am currently in my second year of software engineering at the University of Waterloo who is passionate about Machine Learning, App development, and creating for the World Wide Web. As of this moment, I am a backend developer at Faire as well as Hack the North, Canada's largest hackathon. 
+I'm a 19 year old student developer from Vaughan, Ontario and am currently in my second year of software engineering at the University of Waterloo who is passionate about Machine Learning, App development, and creating for the World Wide Web. As of this moment, I am a backend developer at Faire as well as Hack the North, Canada's largest hackathon. 
 
 ### Skills
 <p>
