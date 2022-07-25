@@ -4,7 +4,7 @@
 
 ![Hello Word](https://github.com/RahulAggarwal1016/RahulAggarwal1016/blob/master/banner.png)
 
-Thanks for visiting my github profile! I'm a 20 year-old student developer from Vaughan, Ontario who is currently studying software engineering at the University of Waterloo. As of this moment, I am a backend developer at Faire as well as Hack the North, Canada's largest hackathon. 
+Thanks for visiting my github profile! I'm a 20 year-old student developer from Vaughan, Ontario who is currently studying software engineering at the University of Waterloo. As of this moment, I am a backend developer at Faire as well as Hack the North (Canada's largest hackathon).
 
 ### Skills
 <p>
