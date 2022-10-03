@@ -1,6 +1,6 @@
 
 
-# Hello there, I'm Rahul Aggarwal :wave:
+# Hello there, I'm Rahul :wave:
 
 ![Hello Word](https://github.com/RahulAggarwal1016/RahulAggarwal1016/blob/master/banner.png)
 
