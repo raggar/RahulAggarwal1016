@@ -1,1 +1,1 @@
-<p> :wave: </p>
+<p size="100"> :wave: </p>
